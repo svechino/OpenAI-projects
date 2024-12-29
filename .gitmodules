@@ -1,0 +1,3 @@
+[submodule "Banking-Ai"]
+	path = Banking-Ai
+	url = https://github.com/svechino/banking-app
